@@ -1,0 +1,11 @@
+Name,Function
+Entity Tagger,"Identifies entities in text (names, places, products, etc.)."
+Topic Classifier,Assigns topics to text rows using AI/NLP classification.
+Industry Labeler,Tags data with industry categories based on keywords/content.
+Role Identifier,"Detects people roles (e.g., CEO, developer, doctor) from text."
+AI Column Tagger,"Labels each column with semantic types (e.g., price, location)."
+Custom Taxonomy Mapper,Maps content to a user-defined taxonomy or label system.
+Sentiment/Intent Tagger,Classifies text into sentiment or intent categories.
+Named Entity Expansion,"Extends partial entities (e.g., 'Apple' → 'Apple Inc., US tech firm')."
+Language & Region Tagger,Tags rows/columns with inferred language or regional origin.
+Multi-Label Classifier,Supports tagging rows with multiple tags from different domains.

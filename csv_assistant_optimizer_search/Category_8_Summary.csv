@@ -1,0 +1,11 @@
+Name,Function
+Smart Text Search Builder,Enables full-text search with relevance ranking and highlights.
+Column Value Filter Generator,Builds drop-down or checkbox filters for selected column values.
+Numeric Range Filter Builder,Auto-generates sliders or min/max filters for numeric fields.
+Multi-Criteria Query Assistant,"Lets users combine multiple filters (e.g., price < 50 and category = A)."
+Date Range Selector,Adds start/end range filters with format-aware parsing.
+Prebuilt Segment Creator,"Generates common segments like 'top 10%', 'low performers', 'null rows'."
+Dynamic Grouping Assistant,Groups and summarizes based on selected columns (like pivot lite).
+Text Contains Filter,"Flags rows with specific keywords, substrings, or regex hits."
+Outlier Isolation Assistant,Tags rows that are statistical outliers for any given metric.
+Search Export Assistant,"Outputs a filtered subset as downloadable CSV, JSON, or copyable table."

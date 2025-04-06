@@ -1,0 +1,11 @@
+Name,Function
+Null Threshold Validator,Flags columns or rows that exceed a % null threshold.
+Unique Column Validator,"Checks for columns expected to be unique (e.g., IDs)."
+Outlier Detector,Flags statistical outliers in numeric fields.
+Duplicate Row Identifier,Detects fully or partially duplicated rows.
+Range Validator,Validates that numeric values fall within expected bounds.
+Pattern Validator,"Ensures string columns match regex (e.g., email, phone)."
+Type Enforcement Checker,Confirms actual types match declared/expected types.
+Cross-Column Logic Validator,Checks dependencies like 'if A then B must be X'.
+Foreign Key Validator,Verifies referenced values exist in related datasets.
+Validation Report Generator,Outputs a human-readable or machine-parsable validation summary.

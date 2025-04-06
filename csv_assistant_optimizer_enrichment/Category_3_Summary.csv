@@ -1,0 +1,11 @@
+Name,Function
+Missing Value Inferrer,Uses statistical or AI logic to intelligently fill missing values.
+Semantic Column Tagger,"Applies labels like 'Date', 'Category', 'Currency' to columns."
+Data Type Predictor,"Uses heuristics/ML to classify correct data types (date, bool, etc.)."
+Metadata Injector,"Adds dataset-level tags like source, owner, last updated."
+Unit Converter Assistant,"Standardizes measurements (e.g., inches to cm, F to C)."
+Country/Geo Resolver,"Enriches locations with geo data (country code, continent, etc.)."
+Currency Normalizer,Converts and aligns currency formats and values.
+Language Detector,Identifies language of free text columns.
+Sentiment Scorer,"Adds sentiment tags (positive, neutral, negative) to text fields."
+Keyword Extractor,Extracts important keywords from text for tagging or analysis.

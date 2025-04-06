@@ -1,0 +1,10 @@
+# Assistant: Auto-Insights Assistant
+
+## Purpose:
+Highlights trends, anomalies, or interesting patterns with summaries.
+
+## Strategy:
+- Enhance the user interface and interaction layer
+- Use Streamlit widgets, tooltips, and visual markers
+- Optional: apply AI/heuristics for smarter suggestions or explanations
+- Aim to improve data interpretation, clarity, and usability

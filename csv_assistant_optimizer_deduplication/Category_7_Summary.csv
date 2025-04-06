@@ -1,0 +1,11 @@
+Name,Function
+Exact Duplicate Remover,Removes rows that are 100% identical across all columns.
+Fuzzy Duplicate Matcher,Finds near-duplicates using string similarity or token matching.
+Partial Match Resolver,Merges rows that match on key fields but differ elsewhere.
+Multi-Source Consolidator,Joins similar records from multiple data sources.
+Cluster-Based Deduplicator,"Uses clustering (e.g., k-means, DBSCAN) to group similar records."
+Canonical Record Selector,Picks the “best” version of a record from duplicates.
+Merge Conflict Highlighter,Flags conflicting values across merged rows.
+Multi-Key Merge Assistant,Merges datasets using composite keys or fallback keys.
+Custom Merge Rules Engine,"Applies logic like 'keep newest', 'prefer non-null', 'average values'."
+Unified Entity Merger,Combines fragmented records into a single entity view.

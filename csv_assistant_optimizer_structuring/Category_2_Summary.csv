@@ -1,0 +1,11 @@
+Name,Function
+Header Fixer,Converts first row to header or inserts missing headers.
+Pivot Table Builder,Transforms flat data into grouped/pivoted formats.
+Unstacking Assistant,Flattens nested structures or wide tables into long-form.
+Column Mapper,Applies a custom column renaming schema.
+Hierarchy Extractor,Detects and separates multilevel categorical columns.
+Index Reset Assistant,Resets or sets a new index (multi-index supported).
+Column Grouper,Merges or folds related columns into new structures.
+Datetime Structurer,"Breaks timestamps into parts: date, time, year, etc."
+Field Combiner,Joins multiple fields into a single structured string/ID.
+Transposer,Transposes tables where rows should be columns.

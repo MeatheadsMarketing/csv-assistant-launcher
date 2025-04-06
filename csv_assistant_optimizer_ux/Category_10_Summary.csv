@@ -1,0 +1,11 @@
+Name,Function
+Column Auto-Suggester,"Recommends which columns to analyze, tag, or clean based on heuristics."
+Field Description Generator,Auto-generates tooltips or descriptions for columns using AI or patterns.
+Auto-Insights Assistant,"Highlights trends, anomalies, or interesting patterns with summaries."
+Interactive Summary Panel,"Builds a dynamic dashboard panel (counts, charts, key stats)."
+Smart Highlight Assistant,"Adds conditional formatting or flagging (e.g., high risk, outliers)."
+Autocomplete for Filters,Adds typeahead/autocomplete to filter boxes or column selectors.
+Search Helper Chatbot,A simple NLP chat interface to generate filter queries or views.
+Column Importance Estimator,"Scores column importance based on variance, completeness, uniqueness."
+Row Explainability Assistant,Uses AI to explain *why* a row might be flagged or important.
+Visual Tag Legend Generator,Displays a color-coded tag/label legend to explain categories.

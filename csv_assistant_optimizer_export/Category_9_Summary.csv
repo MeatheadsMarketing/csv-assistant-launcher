@@ -1,0 +1,11 @@
+Name,Function
+CSV/Excel Export Assistant,Outputs clean DataFrame to downloadable CSV or XLSX.
+JSON Structuring Assistant,Converts data into nested JSON formats based on schema.
+SQL Table Generator,Generates CREATE TABLE + INSERT scripts from the DataFrame.
+BigQuery Formatter,Outputs schema and data as BigQuery-compatible JSON or SQL.
+API Payload Preparer,Formats rows for use as JSON payloads to external APIs.
+Streaming Output Generator,"Sends data in chunks (e.g., for Kafka, webhooks, batch APIs)."
+ETL Batch Packager,Packages filtered data with metadata and logging for ETL drops.
+Data Snapshot Archiver,Saves and versions historical data snapshots with timestamping.
+Data Contract Exporter,Outputs schema + validation rules in contract-ready format.
+Pipeline Trigger Assistant,Sends webhooks or signals to trigger downstream pipelines or notebooks.

@@ -1,0 +1,11 @@
+Name,Function
+Column Type Inferencer,"Detects data types (int, float, datetime, bool, etc.)."
+Primary Key Detector,Identifies candidate columns that can serve as primary keys.
+Foreign Key Linker,Flags potential joins/relationships across datasets.
+Categorical Detector,"Flags columns likely to be enums, labels, or categories."
+Numeric Feature Classifier,"Tags numeric columns as count, ratio, percentage, etc."
+Datetime Role Classifier,"Identifies roles like timestamp, duration, or deadline."
+Multi-Value Field Splitter,Detects and splits cells containing lists or delimited values.
+Boolean/Flag Identifier,Detects True/False or binary switch-style columns.
+Text Feature Classifier,"Labels free-text fields for NLP use (e.g., description, review)."
+Schema Summary Generator,"Outputs a full schema profile including types, roles, uniqueness, nulls, etc."
